@@ -1,12 +1,13 @@
 {
-  "Grown-Up DeFi.": "Myndig Defi.",
-  "The Cosmos Layer 1 platform for community selected projects creating true value.": "La plataforma capa 1 de Cosmos para proyectos seleccionados por la comunidad que generan valor real",
-  "Build on Kujira": "Desarrolla en Kujira",
-  "Semi-Permissioned": "Semi-Autorizado",
-  "In order for a contract to launch on Kujira, it needs to be voted in via governance. This ensures that the quality, sustainability and longevity of the network are protected. A tight-knit hub of revenue generating products with great UX. \"Grown-up DeFi\" is not a meme.": "Para que un smart contract se ejecute en Kujira, necesita ser aprobado mediante una propuesta de gobernanza. Esto asegura que la calidad, sostenibilidad y longevidad de la red están protegidas. Un catálogo de productos muy cuidado que generan ingresos y con una UX excelente. \"El DeFi Sensato\" no es un meme.",
-  "On-chain Scheduler": "Programador On-Chain",
-  "The on-chain scheduler allows protocols to be designed with much less of a reliance on bots. This means there are far fewer wasted transactions. Protocols can be designed to operate more efficiently, and fees which were once required to incentivize bot usage can go back to the users of the network.": "El programador On-Chain permite a los protocolos ser diseñados con una menor dependencia de bots. Esto implica que se desperdicie un menor número de transacciones. Los protocolos pueden ser desarrollados para operar de manera más eficiente y las tasas que antes se usaban para incentivar el uso de bots ahora pueden devolverse a los usuarios de la red.",
-  "Native Token Generation": "Generación de Tokens Nativa",
+  "Grown-Up DeFi.": "Voksen Defi.",
+  "The Cosmos Layer 1 platform for community selected projects creating true value.": "Cosmos-lag 1-plattformen for prosjekter valgt av fellesskapet som skaper virkelig verdi.",
+  "Build on Kujira": "Bygg på Kujira",
+  "Semi-Permissioned": "Semi-autorisert",
+  "In order for a contract to launch on Kujira, it needs to be voted in via governance. This ensures that the quality, sustainability and longevity of the network are protected. A tight-knit hub of revenue generating products with great UX. \"Grown-up DeFi\" is not a meme.": "For at en kontrakt skal kunne lanseres på Kujira, må den stemmes inn via styringen. Dette sikrer at kvaliteten, bærekraftigheten og varigheten til nettverket er beskyttet. En tett knyttet hub av inntektsgenererende produkter med god UX. \"Voksen DeFi\" er ikke en meme.",
+  "On-chain Scheduler": "On-chain planlegger",
+  "The on-chain scheduler allows protocols to be designed with much less of a reliance on bots. This means there are far fewer wasted transactions. Protocols can be designed to operate more efficiently, and fees which were once required to incentivize bot usage can go back to the users of the network.": "Den on-chain planleggeren gjør det mulig å designe protokoller med mye mindre avhengighet av bots. Dette betyr at det er langt færre bortkastede transaksjoner. Protokoller kan designes for å operere mer effektivt, og avgifter som en gang var nødvendig for å stimulere bot-bruk kan gå tilbake til brukerne av nettverket.",
+  "Native Token Generation": "Generering av native tokens"
+
   "Smart contract developers no longer need to handle two individual entry points into their contracts, only needing to design for a native denom. In doing so, every token on the network will be a native Cosmos token, and associated liquidation and trading revenue (with more to come) will all accrue to KUJI stakers.": "Los desarrolladores no necesitarán manejar dos puntos de entrada individuales en sus Smart Contracts, solo desarrollar para una denominación nativa. De esta maner, cada token en la red será un token nativo de Cosmos y el beneficio asociado a la liquidación e intercambio que produzcan se otorgará a los stakers de KUJI",
   "Build with Cosmos SDK": "Desarrollado sobre Cosmos SDK",
   "Access the entire Cosmos ecosystem seamlessly in an environment with proven security and interoperability via IBC.": "Accede a todo el ecosistema de Cosmos sin dificultades en un entorno con securidad demostrada e interoperabilidad via IBC.",
